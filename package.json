@@ -9,6 +9,7 @@
     "build": "tsc",
     "test": "echo Not implemented yet"
   },
+  "repository": "https://github.com/solovevserg/alenka",
   "keywords": [
     "names",
     "russian",
