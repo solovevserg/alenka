@@ -2,13 +2,13 @@
 
 Alenka is a free library restoring full Russian names from transliterated and short forms with statistically based probabilities
 
-⚠ Library is work-in-progress. Fill free to join development. You can get me on [Telegram](https://t.me/sergsol)
+⚠ Library is work-in-progress. Feel free to join development. You can get me on [Telegram](https://t.me/sergsol)
 
 ## Advantages
 
 🌀 Natively in TypeScript
 
-🔢 Statictically trained
+🔢 Statistically trained
 
 ❤ Simple and friendly API
 
