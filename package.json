@@ -7,27 +7,37 @@
   "scripts": {
     "start": "nodemon --watch . --watch ../shared --ignore ./dist --ext json,ts,js --exec yarn build",
     "build": "tsc",
-    "test": "echo Not implemented yet"
+    "test": "jest",
+    "test:watch": "jest --watch"
   },
+  "bin": "./dist/cli/alenka-cli.js",
   "repository": "https://github.com/solovevserg/alenka",
   "keywords": [
     "names",
-    "russian",
-    "names",
+    "russian names",
+    "translit",
     "transliteration",
-    "restoring",
-    "names",
-    "full",
-    "names"
+    "restoring names",
+    "full name",
+    "cyrillic names",
+    "cyrillic letters",
+    "string processing"
   ],
-  "author": "Sergei Solovev",
+  "author": "Sergei Solovev <sergey.soloviev@inbox.ru> (https://sergsol.com/)",
   "license": "ISC",
   "dependencies": {
     "cyrillic-to-translit-js": "^3.2.1",
+    "fastest-levenshtein": "^1.0.12",
     "lodash": "^4.17.21"
   },
   "devDependencies": {
+    "@types/jest": "^27.5.1",
+    "@types/lodash": "^4.14.182",
+    "jest": "^28.1.0",
     "nodemon": "^2.0.16",
+    "ts-jest": "^28.0.2",
+    "ts-node": "^10.7.0",
+    "typedoc": "^0.22.15",
     "typescript": "^4.6.4"
   }
 }
