@@ -1,0 +1,2573 @@
+{
+    "Александр": {
+        "gender": "male",
+        "count": {
+            "bmstu": 1084,
+            "vk": 1084
+        },
+        "variants": [
+            "Саша",
+            "Саня",
+            "Сашка",
+            "Санёк",
+            "Санька",
+            "Алекс",
+            "Сашок",
+            "Сашуля",
+            "Alex",
+            "Alejandro",
+            "Alexander",
+            "Alexandro",
+            "Alexandr"
+        ]
+    },
+    "Дмитрий": {
+        "gender": "male",
+        "count": {
+            "bmstu": 915,
+            "vk": 915
+        },
+        "variants": [
+            "Дима",
+            "Митя",
+            "Димас",
+            "Димон",
+            "Димка",
+            "Dmitry",
+            "Dmitriy",
+            "Dimitry",
+            "Dimitrii"
+        ]
+    },
+    "Никита": {
+        "gender": "male",
+        "count": {
+            "bmstu": 803,
+            "vk": 803
+        },
+        "variants": [
+            "Никитос",
+            "Никитка",
+            "Никитыч",
+            "Некит",
+            "Nikita",
+            "Nekit",
+            "Nikit"
+        ]
+    },
+    "Алексей": {
+        "gender": "male",
+        "count": {
+            "bmstu": 678,
+            "vk": 678
+        },
+        "variants": [
+            "Лёша",
+            "Лёха",
+            "Лёня",
+            "Лёньчик",
+            "Алёша",
+            "Алёшка",
+            "Alexey",
+            "Alexei"
+        ]
+    },
+    "Андрей": {
+        "gender": "male",
+        "count": {
+            "bmstu": 659,
+            "vk": 659
+        },
+        "variants": [
+            "Андрюха",
+            "Андрюша",
+            "Дрон",
+            "Andrey",
+            "Dron",
+            "Andrei",
+            "Andrew"
+        ]
+    },
+    "Иван": {
+        "gender": "male",
+        "count": {
+            "bmstu": 655,
+            "vk": 655
+        },
+        "variants": [
+            "Ваня",
+            "Вано",
+            "Ванька",
+            "Ivan",
+            "Vanya",
+            "Vano"
+        ]
+    },
+    "Максим": {
+        "gender": "male",
+        "count": {
+            "bmstu": 608,
+            "vk": 608
+        },
+        "variants": [
+            "Макс",
+            "Максон",
+            "Максимка",
+            "Maxim",
+            "Maksim",
+            "Max",
+            "Maks"
+        ]
+    },
+    "Анастасия": {
+        "gender": "female",
+        "count": {
+            "bmstu": 598,
+            "vk": 598
+        },
+        "variants": [
+            "Настя",
+            "Настюша",
+            "Настена",
+            "Насёна",
+            "Настюха",
+            "Настенька",
+            "Настася",
+            "Ася",
+            "Anastaiya",
+            "Nastasya",
+            "Nastya",
+            "Nasty",
+            "Nasti",
+            "Anastasia",
+            "Nastasia",
+            "Nastia"
+        ]
+    },
+    "Михаил": {
+        "gender": "male",
+        "count": {
+            "bmstu": 511,
+            "vk": 511
+        },
+        "variants": [
+            "Миша",
+            "Мишутка",
+            "Миха",
+            "Михан",
+            "Michael",
+            "Micky",
+            "Michail",
+            "Micha",
+            "Mikhail",
+            "Miki",
+            "Mishak",
+            "Misha"
+        ]
+    },
+    "Илья": {
+        "gender": "male",
+        "count": {
+            "bmstu": 502,
+            "vk": 502
+        },
+        "variants": [
+            "Илюша",
+            "Илюха",
+            "Илюшка",
+            "Ilia",
+            "Ilya",
+            "Ilyshka",
+            "Illia"
+        ]
+    },
+    "Сергей": {
+        "gender": "male",
+        "count": {
+            "bmstu": 490,
+            "vk": 490
+        },
+        "variants": [
+            "Серёга",
+            "Серёжа",
+            "Серж",
+            "Серёженька",
+            "Серго",
+            "Сергуня",
+            "Серый",
+            "Sergey",
+            "Serj",
+            "Sereja",
+            "Sergei",
+            "Sergeo",
+            "Serge",
+            "Serg",
+            "Sergay"
+        ]
+    },
+    "Владислав": {
+        "gender": "male",
+        "count": {
+            "bmstu": 469,
+            "vk": 469
+        },
+        "variants": [
+            "Влад",
+            "Владик",
+            "Владос",
+            "Vladislav",
+            "Vlad",
+            "Vladosik",
+            "Vladik"
+        ]
+    },
+    "Даниил": {
+        "gender": "male",
+        "count": {
+            "bmstu": 430,
+            "vk": 430
+        },
+        "variants": [
+            "Даня",
+            "Данёк",
+            "Денчик",
+            "Daniel",
+            "Daniyl"
+        ]
+    },
+    "Кирилл": {
+        "gender": "male",
+        "count": {
+            "bmstu": 407,
+            "vk": 407
+        },
+        "variants": [
+            "Кир",
+            "Киря",
+            "Кира",
+            "Кирюха",
+            "Kirill",
+            "Kirya",
+            "Kiryll"
+        ]
+    },
+    "Екатерина": {
+        "gender": "female",
+        "count": {
+            "bmstu": 379,
+            "vk": 379
+        },
+        "variants": [
+            "Катя",
+            "Катюха",
+            "Катюня",
+            "Катька",
+            "Катерина",
+            "Ekaterina",
+            "Ekateryna",
+            "Ekatherina",
+            "Cathrine",
+            "Katrin",
+            "Kathrin",
+            "Kathrine",
+            "Kate",
+            "Katya"
+        ]
+    },
+    "Анна": {
+        "gender": "female",
+        "count": {
+            "bmstu": 368,
+            "vk": 368
+        },
+        "variants": [
+            "Аня",
+            "Анюта",
+            "Анечка",
+            "Нюра",
+            "Анка",
+            "Ann",
+            "Anya",
+            "Ania",
+            "Anechka"
+        ]
+    },
+    "Павел": {
+        "gender": "male",
+        "count": {
+            "bmstu": 337,
+            "vk": 337
+        },
+        "variants": [
+            "Паша",
+            "Пашка",
+            "Павлуша",
+            "Pavel",
+            "Pablo",
+            "Pasha",
+            "Pashok"
+        ]
+    },
+    "Дарья": {
+        "gender": "female",
+        "count": {
+            "bmstu": 335,
+            "vk": 335
+        },
+        "variants": [
+            "Даша",
+            "Дашка",
+            "Дашута",
+            "Дашуля",
+            "Дашенька",
+            "Darya",
+            "Dasha"
+        ]
+    },
+    "Егор": {
+        "gender": "male",
+        "count": {
+            "bmstu": 329,
+            "vk": 329
+        },
+        "variants": [
+            "Егорка",
+            "Егорушка",
+            "Egor"
+        ]
+    },
+    "Антон": {
+        "gender": "male",
+        "count": {
+            "bmstu": 328,
+            "vk": 328
+        },
+        "variants": [
+            "Антоха",
+            "Тоха",
+            "Антошка",
+            "Anton",
+            "Anthony"
+        ]
+    },
+    "Владимир": {
+        "gender": "male",
+        "count": {
+            "bmstu": 324,
+            "vk": 324
+        },
+        "variants": [
+            "Вова",
+            "Володя",
+            "Вольдемар",
+            "Вовка",
+            "Вовчик",
+            "Vladimir",
+            "Vova"
+        ]
+    },
+    "Мария": {
+        "gender": "female",
+        "count": {
+            "bmstu": 320,
+            "vk": 320
+        },
+        "variants": [
+            "Маша",
+            "Машка",
+            "Маня",
+            "Мара",
+            "Машулька",
+            "Маруся",
+            "Машенька",
+            "Marya",
+            "Maria",
+            "Mary",
+            "Mariya"
+        ]
+    },
+    "Денис": {
+        "gender": "male",
+        "count": {
+            "bmstu": 312,
+            "vk": 312
+        },
+        "variants": [
+            "Ден",
+            "Дэн",
+            "Дэнчик",
+            "Денчик",
+            "Дениска",
+            "Денисок",
+            "Dan",
+            "Denys",
+            "Daniel"
+        ]
+    },
+    "Артем": {
+        "gender": "male",
+        "count": {
+            "bmstu": 299,
+            "vk": 299
+        },
+        "variants": [
+            "Тёма",
+            "Артёмка",
+            "Тёмыч",
+            "Artem",
+            "Temych",
+            "Artemio"
+        ]
+    },
+    "Евгений": {
+        "gender": "male",
+        "count": {
+            "bmstu": 291,
+            "vk": 291
+        },
+        "variants": [
+            "Женя",
+            "Женёк",
+            "Жека",
+            "Евген",
+            "Eugine",
+            "Evgeniy",
+            "Evgeni",
+            "Eugeni",
+            "Eugeny",
+            "Eugeniy",
+            "Jeka",
+            "Jenya",
+            "Genya"
+        ]
+    },
+    "Николай": {
+        "gender": "male",
+        "count": {
+            "bmstu": 250,
+            "vk": 250
+        },
+        "variants": [
+            "Коля",
+            "Николка",
+            "Никола",
+            "Колян",
+            "Колюшка",
+            "Nikolay",
+            "Nicolay",
+            "Nickolay",
+            "Nickolai",
+            "Kolya",
+            "Nico",
+            "Nicolai",
+            "Nikolai"
+        ]
+    },
+    "Роман": {
+        "gender": "male",
+        "count": {
+            "bmstu": 247,
+            "vk": 247
+        },
+        "variants": [
+            "Рома",
+            "Ромчик",
+            "Ромка",
+            "Ромко",
+            "Ромыч",
+            "Roman",
+            "Roma",
+            "Rome"
+        ]
+    },
+    "Артём": {
+        "gender": "male",
+        "count": {
+            "bmstu": 243,
+            "vk": 243
+        },
+        "variants": [
+            "Тёма",
+            "Артёмка",
+            "Темыч",
+            "Artem",
+            "Temych",
+            "Artemio"
+        ]
+    },
+    "Елизавета": {
+        "gender": "female",
+        "count": {
+            "bmstu": 224,
+            "vk": 224
+        },
+        "variants": [
+            "Лиза",
+            "Лиса",
+            "Элиза",
+            "Лизка",
+            "Эльза",
+            "Elizaveta",
+            "Elisaveta",
+            "Elysabeth",
+            "Elyzabeth"
+        ]
+    },
+    "Константин": {
+        "gender": "male",
+        "count": {
+            "bmstu": 203,
+            "vk": 203
+        },
+        "variants": [
+            "Костя",
+            "Костик",
+            "Костян",
+            "Konstantin",
+            "Kostya",
+            "Konstantine",
+            "Constantine",
+            "Constantin",
+            "Costya",
+            "Costya",
+            "Costyan"
+        ]
+    },
+    "Юлия": {
+        "gender": "female",
+        "count": {
+            "bmstu": 199,
+            "vk": 199
+        },
+        "variants": [
+            "Юля",
+            "Юльчик",
+            "Юлечка",
+            "Юленька",
+            "Юлёк",
+            "Юлька",
+            "Yulia",
+            "Julia",
+            "Yulya",
+            "Julie"
+        ]
+    },
+    "Игорь": {
+        "gender": "male",
+        "count": {
+            "bmstu": 189,
+            "vk": 189
+        },
+        "variants": [
+            "Игорёк",
+            "Игоряны",
+            "Igor",
+            "Igoryan"
+        ]
+    },
+    "Полина": {
+        "gender": "female",
+        "count": {
+            "bmstu": 181,
+            "vk": 181
+        },
+        "variants": [
+            "Поля",
+            "Полька",
+            "Апполинария",
+            "Полиночка",
+            "Полечка",
+            "Polina",
+            "Polya",
+            "Appolinarya"
+        ]
+    },
+    "Александра": {
+        "gender": "female",
+        "count": {
+            "bmstu": 179,
+            "vk": 179
+        },
+        "variants": [
+            "Лекса",
+            "Лексочка",
+            "Саша",
+            "Саня",
+            "Сашка",
+            "Сашенька",
+            "Сашуля",
+            "Alexandra",
+            "Alejandra",
+            "Aleksandra",
+            "Aleksandria",
+            "Alexa"
+        ]
+    },
+    "Георгий": {
+        "gender": "male",
+        "count": {
+            "bmstu": 177,
+            "vk": 177
+        },
+        "variants": [
+            "Гоша",
+            "Жора",
+            "Жорик",
+            "Гошан",
+            "Жорж",
+            "Гога",
+            "Georgiy",
+            "Georgay",
+            "George"
+        ]
+    },
+    "Олег": {
+        "gender": "male",
+        "count": {
+            "bmstu": 166,
+            "vk": 166
+        },
+        "variants": [
+            "Олежа",
+            "Олежка",
+            "Oleg"
+        ]
+    },
+    "Виктория": {
+        "gender": "female",
+        "count": {
+            "bmstu": 164,
+            "vk": 164
+        },
+        "variants": [
+            "Вика",
+            "Викуся",
+            "Викуля",
+            "Victoriya",
+            "Victoria",
+            "Viktoria",
+            "Viktoriya",
+            "Vika",
+            "Viki"
+        ]
+    },
+    "Ольга": {
+        "gender": "female",
+        "count": {
+            "bmstu": 150,
+            "vk": 150
+        },
+        "variants": [
+            "Оля",
+            "Олечка",
+            "Оленька",
+            "Olya",
+            "Olga"
+        ]
+    },
+    "Ирина": {
+        "gender": "female",
+        "count": {
+            "bmstu": 149,
+            "vk": 149
+        },
+        "variants": [
+            "Ира",
+            "Ируся",
+            "Ируша",
+            "Ирка",
+            "Ирик",
+            "Ирочка",
+            "Иронька",
+            "Irina",
+            "Iriska",
+            "Irishka",
+            "Iren",
+            "Ira"
+        ]
+    },
+    "Данила": {
+        "gender": "male",
+        "count": {
+            "bmstu": 147,
+            "vk": 147
+        },
+        "variants": [
+            "Даня",
+            "Данёк",
+            "Даник",
+            "Данька",
+            "Данилка",
+            "Danyla",
+            "Danila"
+        ]
+    },
+    "Валерия": {
+        "gender": "female",
+        "count": {
+            "bmstu": 141,
+            "vk": 141
+        },
+        "variants": [
+            "Лера",
+            "Леруся",
+            "Валя",
+            "Лерочка",
+            "Valeriya",
+            "Valerya",
+            "Valery"
+        ]
+    },
+    "Юрий": {
+        "gender": "male",
+        "count": {
+            "bmstu": 138,
+            "vk": 138
+        },
+        "variants": [
+            "Юра",
+            "Юрка",
+            "Юрчик",
+            "Юрок",
+            "Юрец",
+            "Yuri",
+            "Yura",
+            "Yuriy"
+        ]
+    },
+    "Татьяна": {
+        "gender": "female",
+        "count": {
+            "bmstu": 137,
+            "vk": 137
+        },
+        "variants": [
+            "Таня",
+            "Танюша",
+            "Танечка",
+            "Танька",
+            "Tatiana",
+            "Tanya",
+            "Tania"
+        ]
+    },
+    "Ксения": {
+        "gender": "female",
+        "count": {
+            "bmstu": 133,
+            "vk": 133
+        },
+        "variants": [
+            "Ксюша",
+            "Ксеня",
+            "Ксюха",
+            "Ксюшенька",
+            "Ксенечка",
+            "Ksenia",
+            "Ksyusha"
+        ]
+    },
+    "Алина": {
+        "gender": "female",
+        "count": {
+            "bmstu": 131,
+            "vk": 131
+        },
+        "variants": [
+            "Алинка",
+            "Лина",
+            "Аля",
+            "Alina",
+            "Alien"
+        ]
+    },
+    "Елена": {
+        "gender": "female",
+        "count": {
+            "bmstu": 130,
+            "vk": 130
+        },
+        "variants": [
+            "Еленка",
+            "Лена",
+            "Ленуся",
+            "Ленка",
+            "Леночка",
+            "Еленушка",
+            "Еленочка",
+            "Elena",
+            "Helen",
+            "Helga"
+        ]
+    },
+    "Глеб": {
+        "gender": "male",
+        "count": {
+            "bmstu": 128,
+            "vk": 128
+        },
+        "variants": [
+            "Глебас",
+            "Глебозавр",
+            "Глебан",
+            "Глебка",
+            "Глебыч",
+            "Gleb"
+        ]
+    },
+    "Вадим": {
+        "gender": "male",
+        "count": {
+            "bmstu": 126,
+            "vk": 126
+        },
+        "variants": [
+            "Вадик",
+            "Вадюша",
+            "Вад",
+            "Vadim",
+            "Vadik"
+        ]
+    },
+    "Григорий": {
+        "gender": "male",
+        "count": {
+            "bmstu": 122,
+            "vk": 122
+        },
+        "variants": [
+            "Гришка",
+            "Гриша",
+            "Грихан",
+            "Гришан",
+            "Гришаня",
+            "Grigory",
+            "Grisha",
+            "Grigoriy"
+        ]
+    },
+    "Виктор": {
+        "gender": "male",
+        "count": {
+            "bmstu": 114,
+            "vk": 114
+        },
+        "variants": [
+            "Витя",
+            "Витёк",
+            "Витька",
+            "Victor",
+            "Vitya"
+        ]
+    },
+    "Вячеслав": {
+        "gender": "male",
+        "count": {
+            "bmstu": 113,
+            "vk": 113
+        },
+        "variants": [
+            "Слава",
+            "Вячик",
+            "Славка",
+            "Vyacheslav",
+            "Slava",
+            "Slawa",
+            "Slawik",
+            "Slavka"
+        ]
+    },
+    "Василий": {
+        "gender": "male",
+        "count": {
+            "bmstu": 110,
+            "vk": 110
+        },
+        "variants": [
+            "Вася",
+            "Васян",
+            "Васёк",
+            "Васька",
+            "Vasiliy",
+            "Vasya",
+            "Vasia",
+            "Vasja",
+            "Vasilyi"
+        ]
+    },
+    "Ярослав": {
+        "gender": "male",
+        "count": {
+            "bmstu": 108,
+            "vk": 108
+        },
+        "variants": [
+            "Ярик",
+            "Яр",
+            "Yaroslav",
+            "Yar"
+        ]
+    },
+    "Руслан": {
+        "gender": "male",
+        "count": {
+            "bmstu": 99,
+            "vk": 99
+        },
+        "variants": [
+            "Рус",
+            "Русик",
+            "Русич",
+            "Русланчик",
+            "Руська",
+            "Ruslan",
+            "Rus"
+        ]
+    },
+    "Данил": {
+        "gender": "male",
+        "count": {
+            "bmstu": 97,
+            "vk": 97
+        },
+        "variants": [
+            "Даня",
+            "Данчик",
+            "Данька",
+            "Danil",
+            "Danya"
+        ]
+    },
+    "Светлана": {
+        "gender": "female",
+        "count": {
+            "bmstu": 89,
+            "vk": 89
+        },
+        "variants": [
+            "Света",
+            "Светуля",
+            "Светочка",
+            "Svetlana",
+            "Sveta"
+        ]
+    },
+    "Станислав": {
+        "gender": "male",
+        "count": {
+            "bmstu": 87,
+            "vk": 87
+        },
+        "variants": [
+            "Стас",
+            "Стан",
+            "Стасик",
+            "Stanislav",
+            "Stas"
+        ]
+    },
+    "Виталий": {
+        "gender": "male",
+        "count": {
+            "bmstu": 87,
+            "vk": 87
+        },
+        "variants": [
+            "Вит",
+            "Виталя",
+            "Виталян",
+            "Vitaliy",
+            "Vitali",
+            "Vitalik",
+            "Vitaly",
+            "Vita"
+        ]
+    },
+    "Наталья": {
+        "gender": "female",
+        "count": {
+            "bmstu": 87,
+            "vk": 87
+        },
+        "variants": [
+            "Наташа",
+            "Таша",
+            "Натуся",
+            "Натуська",
+            "Наташенька",
+            "Ната",
+            "Natasha",
+            "Nata",
+            "Natalia",
+            "Natali",
+            "Natalie",
+            "Nataly",
+            "Natalya"
+        ]
+    },
+    "Тимур": {
+        "gender": "male",
+        "count": {
+            "bmstu": 86,
+            "vk": 86
+        },
+        "variants": [
+            "Тимик",
+            "Тимыч",
+            "Темур",
+            "Тим",
+            "Timur"
+        ]
+    },
+    "Софья": {
+        "gender": "female",
+        "count": {
+            "bmstu": 84,
+            "vk": 84
+        },
+        "variants": [
+            "Соня",
+            "Софа",
+            "Sofia",
+            "Sofya"
+        ]
+    },
+    "Степан": {
+        "gender": "male",
+        "count": {
+            "bmstu": 80,
+            "vk": 80
+        },
+        "variants": [
+            "Стёпа",
+            "Стёпка",
+            "Степашка",
+            "Stepan"
+        ]
+    },
+    "Артур": {
+        "gender": "male",
+        "count": {
+            "bmstu": 77,
+            "vk": 77
+        },
+        "variants": [
+            "Артурчик",
+            "Арти",
+            "Arthur",
+            "Artur"
+        ]
+    },
+    "Арсений": {
+        "gender": "male",
+        "count": {
+            "bmstu": 76,
+            "vk": 76
+        },
+        "variants": [
+            "Сеня",
+            "Арс",
+            "Arseniy",
+            "Ars"
+        ]
+    },
+    "Леонид": {
+        "gender": "male",
+        "count": {
+            "bmstu": 73,
+            "vk": 73
+        },
+        "variants": [
+            "Лёня",
+            "Лёнчик",
+            "Leonid",
+            "Lyonya"
+        ]
+    },
+    "Валерий": {
+        "gender": "male",
+        "count": {
+            "bmstu": 72,
+            "vk": 72
+        },
+        "variants": [
+            "Валера",
+            "Валерка",
+            "Valery",
+            "Valeriy"
+        ]
+    },
+    "Марина": {
+        "gender": "female",
+        "count": {
+            "bmstu": 70,
+            "vk": 70
+        },
+        "variants": [
+            "Маринка",
+            "Мариночка",
+            "Маринушка",
+            "Marina"
+        ]
+    },
+    "Кристина": {
+        "gender": "female",
+        "count": {
+            "bmstu": 70,
+            "vk": 70
+        },
+        "variants": [
+            "Кристи",
+            "Кристиночка",
+            "Kristina"
+        ]
+    },
+    "Матвей": {
+        "gender": "male",
+        "count": {
+            "bmstu": 69,
+            "vk": 69
+        },
+        "variants": [
+            "Мотя",
+            "Матяш",
+            "Матвей",
+            "Матильда",
+            "Matvey",
+            "Motya"
+        ]
+    },
+    "Маргарита": {
+        "gender": "female",
+        "count": {
+            "bmstu": 67,
+            "vk": 67
+        },
+        "variants": [
+            "Марго",
+            "Рита",
+            "Мара",
+            "Ритуля",
+            "Ритусик",
+            "Риточка",
+            "Margarita",
+            "Margareth",
+            "Rita"
+        ]
+    },
+    "Диана": {
+        "gender": "female",
+        "count": {
+            "bmstu": 67,
+            "vk": 67
+        },
+        "variants": [
+            "Дианочка",
+            "Diana"
+        ]
+    },
+    "Арина": {
+        "gender": "female",
+        "count": {
+            "bmstu": 62,
+            "vk": 62
+        },
+        "variants": [
+            "Ариночка",
+            "Arina"
+        ]
+    },
+    "Евгения": {
+        "gender": "female",
+        "count": {
+            "bmstu": 61,
+            "vk": 61
+        },
+        "variants": [
+            "Женя",
+            "Женечка",
+            "Женька",
+            "Женюша",
+            "Женёниус",
+            "Eugene"
+        ]
+    },
+    "Тимофей": {
+        "gender": "male",
+        "count": {
+            "bmstu": 60,
+            "vk": 60
+        },
+        "variants": [
+            "Тима",
+            "Тимоша",
+            "Тимоха",
+            "Timofey",
+            "Tima"
+        ]
+    },
+    "Федор": {
+        "gender": "male",
+        "count": {
+            "bmstu": 57,
+            "vk": 57
+        },
+        "variants": [
+            "Федя",
+            "Федька",
+            "Федюша",
+            "Fedor",
+            "Fedya"
+        ]
+    },
+    "Надежда": {
+        "gender": "female",
+        "count": {
+            "bmstu": 56,
+            "vk": 56
+        },
+        "variants": [
+            "Надя",
+            "Надюха",
+            "Надюшка",
+            "Надька",
+            "Наденька",
+            "Nadezhda",
+            "Nadya"
+        ]
+    },
+    "Яна": {
+        "gender": "female",
+        "count": {
+            "bmstu": 55,
+            "vk": 55
+        },
+        "variants": [
+            "Яночка",
+            "Yana"
+        ]
+    },
+    "Вероника": {
+        "gender": "female",
+        "count": {
+            "bmstu": 54,
+            "vk": 54
+        },
+        "variants": [
+            "Ника",
+            "Никуся",
+            "Veronika"
+        ]
+    },
+    "Артемий": {
+        "gender": "male",
+        "count": {
+            "bmstu": 51,
+            "vk": 51
+        },
+        "variants": [
+            "Тёма",
+            "Тёмыч",
+            "Tema",
+            "Artemiy"
+        ]
+    },
+    "Марк": {
+        "gender": "male",
+        "count": {
+            "bmstu": 49,
+            "vk": 49
+        },
+        "variants": [
+            "Mark"
+        ]
+    },
+    "Петр": {
+        "gender": "male",
+        "count": {
+            "bmstu": 49,
+            "vk": 49
+        },
+        "variants": [
+            "Петя",
+            "Петруха",
+            "Петро",
+            "Petr",
+            "Petro",
+            "Peter"
+        ]
+    },
+    "Анатолий": {
+        "gender": "male",
+        "count": {
+            "bmstu": 48,
+            "vk": 48
+        },
+        "variants": [
+            "Толя",
+            "Толян",
+            "Толяндрий",
+            "Anatoliy",
+            "Anatoly",
+            "Tolya"
+        ]
+    },
+    "Семён": {
+        "gender": "male",
+        "count": {
+            "bmstu": 47,
+            "vk": 47
+        },
+        "variants": [
+            "Сёма",
+            "Семочка",
+            "Semen",
+            "Semyon"
+        ]
+    },
+    "Семен": {
+        "gender": "male",
+        "count": {
+            "bmstu": 47,
+            "vk": 47
+        },
+        "variants": [
+            "Сема",
+            "Семка",
+            "Сеня",
+            "Семочка",
+            "Semen",
+            "Semyon"
+        ]
+    },
+    "Богдан": {
+        "gender": "male",
+        "count": {
+            "bmstu": 45,
+            "vk": 45
+        },
+        "variants": [
+            "Бодя",
+            "Bogdan"
+        ]
+    },
+    "Варвара": {
+        "gender": "female",
+        "count": {
+            "bmstu": 42,
+            "vk": 42
+        },
+        "variants": [
+            "Варька",
+            "Варенька",
+            "Варюшка",
+            "Варварушка",
+            "Варьчик",
+            "Варварочка",
+            "Varvara"
+        ]
+    },
+    "Ангелина": {
+        "gender": "female",
+        "count": {
+            "bmstu": 41,
+            "vk": 41
+        },
+        "variants": [
+            "Анжела",
+            "Angelina",
+            "Angela"
+        ]
+    },
+    "Борис": {
+        "gender": "male",
+        "count": {
+            "bmstu": 40,
+            "vk": 40
+        },
+        "variants": [
+            "Боря",
+            "Борян",
+            "Борька",
+            "Boris",
+            "Borya"
+        ]
+    },
+    "София": {
+        "gender": "female",
+        "count": {
+            "bmstu": 39,
+            "vk": 39
+        },
+        "variants": [
+            "Соня",
+            "Сонечка",
+            "Sofia",
+            "Sofya",
+            "Sonya"
+        ]
+    },
+    "Лев": {
+        "gender": "male",
+        "count": {
+            "bmstu": 37,
+            "vk": 37
+        },
+        "variants": [
+            "Лёва",
+            "Львёнок",
+            "Lev",
+            "Leva"
+        ]
+    },
+    "Валентина": {
+        "gender": "female",
+        "count": {
+            "bmstu": 34,
+            "vk": 34
+        },
+        "variants": [
+            "Валя",
+            "Валька",
+            "Валёк",
+            "Valentina"
+        ]
+    },
+    "Фёдор": {
+        "gender": "male",
+        "count": {
+            "bmstu": 33,
+            "vk": 33
+        },
+        "variants": [
+            "Федя",
+            "Fedor"
+        ]
+    },
+    "Алена": {
+        "gender": "female",
+        "count": {
+            "bmstu": 33,
+            "vk": 33
+        },
+        "variants": [
+            "Алёнушка",
+            "Алёнка",
+            "Alena"
+        ]
+    },
+    "Карина": {
+        "gender": "female",
+        "count": {
+            "bmstu": 32,
+            "vk": 32
+        },
+        "variants": [
+            "Кариночка",
+            "Karina"
+        ]
+    },
+    "Давид": {
+        "gender": "male",
+        "count": {
+            "bmstu": 31,
+            "vk": 31
+        },
+        "variants": [
+            "David"
+        ]
+    },
+    "Наталия": {
+        "gender": "female",
+        "count": {
+            "bmstu": 31,
+            "vk": 31
+        },
+        "variants": [
+            "Наташа",
+            "Натусик",
+            "Ната",
+            "Natalia"
+        ]
+    },
+    "Эдуард": {
+        "gender": "male",
+        "count": {
+            "bmstu": 31,
+            "vk": 31
+        },
+        "variants": [
+            "Eduard",
+            "Edvard"
+        ]
+    },
+    "Святослав": {
+        "gender": "male",
+        "count": {
+            "bmstu": 31,
+            "vk": 31
+        },
+        "variants": [
+            "Слава",
+            "Свят",
+            "Svyatoslav"
+        ]
+    },
+    "Ульяна": {
+        "gender": "female",
+        "count": {
+            "bmstu": 30,
+            "vk": 30
+        },
+        "variants": [
+            "Уля",
+            "Ulyana"
+        ]
+    },
+    "Валентин": {
+        "gender": "male",
+        "count": {
+            "bmstu": 30,
+            "vk": 30
+        },
+        "variants": [
+            "Валя",
+            "Валёк",
+            "Valentin"
+        ]
+    },
+    "Алиса": {
+        "gender": "female",
+        "count": {
+            "bmstu": 30,
+            "vk": 30
+        },
+        "variants": [
+            "Алисонька",
+            "Алисочка",
+            "Alisa",
+            "Alice",
+            "Alis"
+        ]
+    },
+    "Всеволод": {
+        "gender": "male",
+        "count": {
+            "bmstu": 29,
+            "vk": 29
+        },
+        "variants": [
+            "Сева",
+            "Vsevolod"
+        ]
+    },
+    "Филипп": {
+        "gender": "male",
+        "count": {
+            "bmstu": 29,
+            "vk": 29
+        },
+        "variants": [
+            "Филя",
+            "Филиппок",
+            "Filip",
+            "Philip"
+        ]
+    },
+    "Олеся": {
+        "gender": "female",
+        "count": {
+            "bmstu": 28,
+            "vk": 28
+        },
+        "variants": [
+            "Леся",
+            "Олесенька",
+            "Olyesya"
+        ]
+    },
+    "Пётр": {
+        "gender": "male",
+        "count": {
+            "bmstu": 27,
+            "vk": 27
+        },
+        "variants": [
+            "Петруха",
+            "Петро",
+            "Петя",
+            "Petr",
+            "Peter"
+        ]
+    },
+    "Людмила": {
+        "gender": "female",
+        "count": {
+            "bmstu": 26,
+            "vk": 26
+        },
+        "variants": [
+            "Люда",
+            "Мила",
+            "Людка",
+            "Людочка",
+            "Людовик",
+            "Ludmila"
+        ]
+    },
+    "Вера": {
+        "gender": "female",
+        "count": {
+            "bmstu": 26,
+            "vk": 26
+        },
+        "variants": [
+            "Веронька",
+            "Верочка",
+            "Vera",
+            "Faith"
+        ]
+    },
+    "Алёна": {
+        "gender": "female",
+        "count": {
+            "bmstu": 26,
+            "vk": 26
+        },
+        "variants": [
+            "Алёнка",
+            "Ленка",
+            "Alena"
+        ]
+    },
+    "Аркадий": {
+        "gender": "male",
+        "count": {
+            "bmstu": 24,
+            "vk": 24
+        },
+        "variants": [
+            "Аркаша",
+            "Арк",
+            "Arkadiy",
+            "Arkady"
+        ]
+    },
+    "Марат": {
+        "gender": "male",
+        "count": {
+            "bmstu": 24,
+            "vk": 24
+        },
+        "variants": [
+            "Маратик",
+            "Маратян",
+            "Marat"
+        ]
+    },
+    "Родион": {
+        "gender": "male",
+        "count": {
+            "bmstu": 22,
+            "vk": 22
+        },
+        "variants": [
+            "Родя",
+            "Rodion"
+        ]
+    },
+    "Савелий": {
+        "gender": "male",
+        "count": {
+            "bmstu": 21,
+            "vk": 21
+        },
+        "variants": [
+            "Сава",
+            "Saveliy"
+        ]
+    },
+    "Рустам": {
+        "gender": "male",
+        "count": {
+            "bmstu": 21,
+            "vk": 21
+        },
+        "variants": [
+            "Рустик",
+            "Rustam"
+        ]
+    },
+    "Элина": {
+        "gender": "female",
+        "count": {
+            "bmstu": 19,
+            "vk": 19
+        },
+        "variants": [
+            "Alina"
+        ]
+    },
+    "Ян": {
+        "gender": "male",
+        "count": {
+            "bmstu": 19,
+            "vk": 19
+        },
+        "variants": [
+            "Yan"
+        ]
+    },
+    "Василиса": {
+        "gender": "female",
+        "count": {
+            "bmstu": 18,
+            "vk": 18
+        },
+        "variants": [
+            "Вася",
+            "Василисочка",
+            "Васька",
+            "Vasylisa",
+            "Vasilisa",
+            "Vasilysa"
+        ]
+    },
+    "Любовь": {
+        "gender": "female",
+        "count": {
+            "bmstu": 18,
+            "vk": 18
+        },
+        "variants": [
+            "Люба",
+            "Любочка",
+            "Любонька",
+            "Lubov",
+            "Love"
+        ]
+    },
+    "Яков": {
+        "gender": "male",
+        "count": {
+            "bmstu": 17,
+            "vk": 17
+        },
+        "variants": [
+            "Яша",
+            "Yakov"
+        ]
+    },
+    "Галина": {
+        "gender": "female",
+        "count": {
+            "bmstu": 16,
+            "vk": 16
+        },
+        "variants": [
+            "Галя",
+            "Галочка",
+            "Halya",
+            "Halia",
+            "Галенька",
+            "Galina",
+            "Galya"
+        ]
+    },
+    "Захар": {
+        "gender": "male",
+        "count": {
+            "bmstu": 15,
+            "vk": 15
+        },
+        "variants": [
+            "Zahar"
+        ]
+    },
+    "Тамара": {
+        "gender": "female",
+        "count": {
+            "bmstu": 15,
+            "vk": 15
+        },
+        "variants": [
+            "Тома",
+            "Тамарочка",
+            "Tamara"
+        ]
+    },
+    "Герман": {
+        "gender": "male",
+        "count": {
+            "bmstu": 15,
+            "vk": 15
+        },
+        "variants": [
+            "German"
+        ]
+    },
+    "Ростислав": {
+        "gender": "male",
+        "count": {
+            "bmstu": 15,
+            "vk": 15
+        },
+        "variants": [
+            "Rostislav"
+        ]
+    },
+    "Дамир": {
+        "gender": "male",
+        "count": {
+            "bmstu": 15,
+            "vk": 15
+        },
+        "variants": [
+            "Damir"
+        ]
+    },
+    "Нина": {
+        "gender": "female",
+        "count": {
+            "bmstu": 15,
+            "vk": 15
+        },
+        "variants": [
+            "Нинка",
+            "Ниночка",
+            "Nina",
+            "Nino"
+        ]
+    },
+    "Эмиль": {
+        "gender": "male",
+        "count": {
+            "bmstu": 14,
+            "vk": 14
+        },
+        "variants": [
+            "Emil"
+        ]
+    },
+    "Ильдар": {
+        "gender": "male",
+        "count": {
+            "bmstu": 14,
+            "vk": 14
+        },
+        "variants": [
+            "Eldar",
+            "Ildar"
+        ]
+    },
+    "Камиль": {
+        "gender": "male",
+        "count": {
+            "bmstu": 13,
+            "vk": 13
+        },
+        "variants": [
+            "Kamil"
+        ]
+    },
+    "Магомед": {
+        "gender": "male",
+        "count": {
+            "bmstu": 13,
+            "vk": 13
+        },
+        "variants": [
+            "Magomed"
+        ]
+    },
+    "Рамиль": {
+        "gender": "male",
+        "count": {
+            "bmstu": 13,
+            "vk": 13
+        },
+        "variants": [
+            "Ramil"
+        ]
+    },
+    "Ринат": {
+        "gender": "male",
+        "count": {
+            "bmstu": 12,
+            "vk": 12
+        },
+        "variants": [
+            "Rinat"
+        ]
+    },
+    "Эльдар": {
+        "gender": "male",
+        "count": {
+            "bmstu": 12,
+            "vk": 12
+        },
+        "variants": [
+            "Eldar"
+        ]
+    },
+    "Альберт": {
+        "gender": "male",
+        "count": {
+            "bmstu": 12,
+            "vk": 12
+        },
+        "variants": [
+            "Albert"
+        ]
+    },
+    "Савва": {
+        "gender": "male",
+        "count": {
+            "bmstu": 12,
+            "vk": 12
+        },
+        "variants": [
+            "Сава",
+            "Savva"
+        ]
+    },
+    "Тихон": {
+        "gender": "male",
+        "count": {
+            "bmstu": 11,
+            "vk": 11
+        },
+        "variants": [
+            "Тиша",
+            "Тишка",
+            "Tikhon",
+            "Tihon"
+        ]
+    },
+    "Роберт": {
+        "gender": "male",
+        "count": {
+            "bmstu": 11,
+            "vk": 11
+        },
+        "variants": [
+            "Robert"
+        ]
+    },
+    "Лидия": {
+        "gender": "female",
+        "count": {
+            "bmstu": 11,
+            "vk": 11
+        },
+        "variants": [
+            "Лида",
+            "Лидочка",
+            "Lidia"
+        ]
+    },
+    "Милена": {
+        "gender": "female",
+        "count": {
+            "bmstu": 11,
+            "vk": 11
+        },
+        "variants": [
+            "Милли",
+            "Мила",
+            "Milena"
+        ]
+    },
+    "Ислам": {
+        "gender": "male",
+        "count": {
+            "bmstu": 11,
+            "vk": 11
+        },
+        "variants": [
+            "Islam"
+        ]
+    },
+    "Эрик": {
+        "gender": "male",
+        "count": {
+            "bmstu": 11,
+            "vk": 11
+        },
+        "variants": [
+            "Erik"
+        ]
+    },
+    "Макар": {
+        "gender": "male",
+        "count": {
+            "bmstu": 10,
+            "vk": 10
+        },
+        "variants": [
+            "Makar"
+        ]
+    },
+    "Геннадий": {
+        "gender": "male",
+        "count": {
+            "bmstu": 10,
+            "vk": 10
+        },
+        "variants": [
+            "Гена",
+            "Генка",
+            "Гендос",
+            "Гендостан",
+            "Gennady",
+            "Gennadiy"
+        ]
+    },
+    "Виолетта": {
+        "gender": "female",
+        "count": {
+            "bmstu": 10,
+            "vk": 10
+        },
+        "variants": [
+            "Vilolet"
+        ]
+    },
+    "Карим": {
+        "gender": "male",
+        "count": {
+            "bmstu": 10,
+            "vk": 10
+        },
+        "variants": [
+            "Karim"
+        ]
+    },
+    "Влада": {
+        "gender": "female",
+        "count": {
+            "bmstu": 10,
+            "vk": 10
+        },
+        "variants": [
+            "Лада",
+            "Владик",
+            "Vlada",
+            "Vladlena"
+        ]
+    },
+    "Лилия": {
+        "gender": "female",
+        "count": {
+            "bmstu": 10,
+            "vk": 10
+        },
+        "variants": [
+            "Лида",
+            "Lidia"
+        ]
+    },
+    "Даниэль": {
+        "gender": "male",
+        "count": {
+            "bmstu": 10,
+            "vk": 10
+        },
+        "variants": [
+            "Daniel"
+        ]
+    },
+    "Антонина": {
+        "gender": "female",
+        "count": {
+            "bmstu": 9,
+            "vk": 9
+        },
+        "variants": [
+            "Тоня",
+            "Тонечка",
+            "Antonina",
+            "Anthony"
+        ]
+    },
+    "Алан": {
+        "gender": "male",
+        "count": {
+            "bmstu": 9,
+            "vk": 9
+        },
+        "variants": [
+            "Alan"
+        ]
+    },
+    "Булат": {
+        "gender": "male",
+        "count": {
+            "bmstu": 9,
+            "vk": 9
+        },
+        "variants": [
+            "Bulat"
+        ]
+    },
+    "Анжелика": {
+        "gender": "female",
+        "count": {
+            "bmstu": 9,
+            "vk": 9
+        },
+        "variants": [
+            "Лика",
+            "Анжи",
+            "Anhelika",
+            "Angelika"
+        ]
+    },
+    "Шамиль": {
+        "gender": "male",
+        "count": {
+            "bmstu": 9,
+            "vk": 9
+        },
+        "variants": [
+            "Shamil"
+        ]
+    },
+    "Карен": {
+        "gender": "male",
+        "count": {
+            "bmstu": 9,
+            "vk": 9
+        },
+        "variants": [
+            "Karen"
+        ]
+    },
+    "Тигран": {
+        "gender": "male",
+        "count": {
+            "bmstu": 9,
+            "vk": 9
+        },
+        "variants": [
+            "Тигр",
+            "Tigran"
+        ]
+    },
+    "Ильяс": {
+        "gender": "male",
+        "count": {
+            "bmstu": 9,
+            "vk": 9
+        },
+        "variants": [
+            "Ilyas"
+        ]
+    },
+    "Алишер": {
+        "gender": "male",
+        "count": {
+            "bmstu": 9,
+            "vk": 9
+        },
+        "variants": [
+            "Alisher"
+        ]
+    },
+    "Арсен": {
+        "gender": "male",
+        "count": {
+            "bmstu": 9,
+            "vk": 9
+        },
+        "variants": [
+            "Arsen"
+        ]
+    },
+    "Тамерлан": {
+        "gender": "male",
+        "count": {
+            "bmstu": 8,
+            "vk": 8
+        },
+        "variants": [
+            "Tamerlan"
+        ]
+    },
+    "Ева": {
+        "gender": "female",
+        "count": {
+            "bmstu": 8,
+            "vk": 8
+        },
+        "variants": [
+            "Eva"
+        ]
+    },
+    "Адам": {
+        "gender": "male",
+        "count": {
+            "bmstu": 8,
+            "vk": 8
+        },
+        "variants": [
+            "Adam"
+        ]
+    },
+    "Алия": {
+        "gender": "female",
+        "count": {
+            "bmstu": 8,
+            "vk": 8
+        },
+        "variants": [
+            "Alia"
+        ]
+    },
+    "Кира": {
+        "gender": "female",
+        "count": {
+            "bmstu": 8,
+            "vk": 8
+        },
+        "variants": [
+            "Kira"
+        ]
+    },
+    "Рустем": {
+        "gender": "male",
+        "count": {
+            "bmstu": 8,
+            "vk": 8
+        },
+        "variants": [
+            "Rustem"
+        ]
+    },
+    "Радмир": {
+        "gender": "male",
+        "count": {
+            "bmstu": 8,
+            "vk": 8
+        },
+        "variants": []
+    },
+    "Тарас": {
+        "gender": "male",
+        "count": {
+            "bmstu": 7,
+            "vk": 7
+        },
+        "variants": []
+    },
+    "Аким": {
+        "gender": "male",
+        "count": {
+            "bmstu": 7,
+            "vk": 7
+        },
+        "variants": []
+    },
+    "Искандер": {
+        "gender": "male",
+        "count": {
+            "bmstu": 7,
+            "vk": 7
+        },
+        "variants": []
+    },
+    "Рафаэль": {
+        "gender": "male",
+        "count": {
+            "bmstu": 7,
+            "vk": 7
+        },
+        "variants": []
+    },
+    "Дарина": {
+        "gender": "female",
+        "count": {
+            "bmstu": 7,
+            "vk": 7
+        },
+        "variants": []
+    },
+    "Эльвира": {
+        "gender": "female",
+        "count": {
+            "bmstu": 7,
+            "vk": 7
+        },
+        "variants": []
+    },
+    "Ренат": {
+        "gender": "male",
+        "count": {
+            "bmstu": 7,
+            "vk": 7
+        },
+        "variants": []
+    },
+    "Оксана": {
+        "gender": "female",
+        "count": {
+            "bmstu": 7,
+            "vk": 7
+        },
+        "variants": [
+            "Окси",
+            "Ксю",
+            "Оксаночка",
+            "Oksana"
+        ]
+    },
+    "Амина": {
+        "gender": "female",
+        "count": {
+            "bmstu": 7,
+            "vk": 7
+        },
+        "variants": []
+    },
+    "Айдар": {
+        "gender": "male",
+        "count": {
+            "bmstu": 7,
+            "vk": 7
+        },
+        "variants": []
+    },
+    "Альбина": {
+        "gender": "female",
+        "count": {
+            "bmstu": 6,
+            "vk": 6
+        },
+        "variants": [
+            "Альби",
+            "Эльба",
+            "Albina"
+        ]
+    },
+    "Аида": {
+        "gender": "female",
+        "count": {
+            "bmstu": 6,
+            "vk": 6
+        },
+        "variants": []
+    },
+    "Арман": {
+        "gender": "male",
+        "count": {
+            "bmstu": 6,
+            "vk": 6
+        },
+        "variants": []
+    },
+    "Жанна": {
+        "gender": "female",
+        "count": {
+            "bmstu": 6,
+            "vk": 6
+        },
+        "variants": [
+            "Снежанна",
+            "Жанночка",
+            "Zhanna"
+        ]
+    },
+    "Камила": {
+        "gender": "female",
+        "count": {
+            "bmstu": 6,
+            "vk": 6
+        },
+        "variants": []
+    },
+    "Инна": {
+        "gender": "female",
+        "count": {
+            "bmstu": 6,
+            "vk": 6
+        },
+        "variants": [
+            "Иннесса",
+            "Инночка",
+            "Inna"
+        ]
+    },
+    "Элеонора": {
+        "gender": "female",
+        "count": {
+            "bmstu": 6,
+            "vk": 6
+        },
+        "variants": [
+            "Элеонорочка",
+            "Нора"
+        ]
+    },
+    "Стефан": {
+        "gender": "male",
+        "count": {
+            "bmstu": 6,
+            "vk": 6
+        },
+        "variants": [
+            "Фаня"
+        ]
+    },
+    "Расул": {
+        "gender": "male",
+        "count": {
+            "bmstu": 6,
+            "vk": 6
+        },
+        "variants": []
+    },
+    "Сабина": {
+        "gender": "female",
+        "count": {
+            "bmstu": 6,
+            "vk": 6
+        },
+        "variants": [
+            "Sabin"
+        ]
+    },
+    "Рамазан": {
+        "gender": "male",
+        "count": {
+            "bmstu": 6,
+            "vk": 6
+        },
+        "variants": []
+    },
+    "Ефим": {
+        "gender": "male",
+        "count": {
+            "bmstu": 6,
+            "vk": 6
+        },
+        "variants": []
+    },
+    "Милана": {
+        "gender": "female",
+        "count": {
+            "bmstu": 6,
+            "vk": 6
+        },
+        "variants": []
+    },
+    "Назар": {
+        "gender": "male",
+        "count": {
+            "bmstu": 6,
+            "vk": 6
+        },
+        "variants": []
+    },
+    "Дина": {
+        "gender": "female",
+        "count": {
+            "bmstu": 5,
+            "vk": 5
+        },
+        "variants": []
+    },
+    "Лейла": {
+        "gender": "female",
+        "count": {
+            "bmstu": 5,
+            "vk": 5
+        },
+        "variants": []
+    },
+    "Таисия": {
+        "gender": "female",
+        "count": {
+            "bmstu": 5,
+            "vk": 5
+        },
+        "variants": []
+    },
+    "Владислава": {
+        "gender": "female",
+        "count": {
+            "bmstu": 5,
+            "vk": 5
+        },
+        "variants": [
+            "Слава",
+            "Влада"
+        ]
+    },
+    "Арслан": {
+        "gender": "male",
+        "count": {
+            "bmstu": 5,
+            "vk": 5
+        },
+        "variants": []
+    },
+    "Алла": {
+        "gender": "female",
+        "count": {
+            "bmstu": 5,
+            "vk": 5
+        },
+        "variants": [
+            "Аллочка",
+            "Alla"
+        ]
+    },
+    "Амир": {
+        "gender": "male",
+        "count": {
+            "bmstu": 5,
+            "vk": 5
+        },
+        "variants": []
+    },
+    "Али": {
+        "gender": "male",
+        "count": {
+            "bmstu": 5,
+            "vk": 5
+        },
+        "variants": []
+    },
+    "Аделина": {
+        "gender": "female",
+        "count": {
+            "bmstu": 5,
+            "vk": 5
+        },
+        "variants": []
+    },
+    "Лада": {
+        "gender": "female",
+        "count": {
+            "bmstu": 5,
+            "vk": 5
+        },
+        "variants": []
+    },
+    "Нелли": {
+        "gender": "female",
+        "count": {
+            "bmstu": 5,
+            "vk": 5
+        },
+        "variants": []
+    },
+    "Алим": {
+        "gender": "male",
+        "count": {
+            "bmstu": 5,
+            "vk": 5
+        },
+        "variants": []
+    }
+}
