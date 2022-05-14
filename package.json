@@ -1,6 +1,6 @@
 {
   "name": "alenka",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Predicting Russian names from transliterated and short forms with statistical learning and Levenshtein distance",
   "main": "dist/index.js",
   "types": "dist/index.d.js",
@@ -12,6 +12,7 @@
     "build": "tsc",
     "test": "jest",
     "docs": "yarn typedoc src/index.ts",
+    "prepublish": "yarn build && yarn test",
     "test:watch": "jest --watch"
   },
   "bin": "./dist/cli/alenka-cli.js",

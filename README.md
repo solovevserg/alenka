@@ -34,6 +34,8 @@ const np = new NamePredictor();
 
 np.predictName('Саня', 'male') // 'Александр'
 np.predictName('Саня', 'female') // 'Александра'
+np.predictName('Саня') // 'Александр' as more frequent
+np.predictName('Сирожа') // 'Сергей'
 np.predictName('$one4ka') // 'София'
 np.predictGender('$one4ka') // female
 np.predictName('asdasda') // undefined
@@ -54,7 +56,7 @@ const options = {
 
 const np = new NamePredictor(options);
 
-np.predictName('$one4ka') // 'unedfined'
+np.predictName('Сирожа') // 'unedfined'
 ```
 
 ## Terminology
@@ -65,7 +67,7 @@ np.predictName('$one4ka') // 'unedfined'
 2. Shorts are shotened forms of names (e.g. `Саша` or `Сонечка`);
 3. Transliterations are latin versions of names or shorts (e.g. `Alex` or `Sofia`);
 4. Variants are names, shorts and transliterations together;
-5. Tokens are any strings including variatns.
+5. Tokens are any strings including variatns (e.g. `$0nechk@`, `abcdefg`).
 
 prediction is mapping a token to a name. It happens via mathcing token agains a dataset of shorts and transliterations with Levenshtein distance to find the closest one and return the relevant name. If nothing matched, undefined will be returned.
 
