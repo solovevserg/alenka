@@ -1,9 +1,12 @@
 {
   "name": "alenka",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Predicting Russian names from transliterated and short forms with statistical learning and Levenshtein distance",
   "main": "dist/index.js",
   "types": "dist/index.d.js",
+  "files": [
+    "dist/"
+  ],
   "scripts": {
     "start": "nodemon --watch . --watch ../shared --ignore ./dist --ext json,ts,js --exec yarn build",
     "build": "tsc",
@@ -15,14 +18,14 @@
   "repository": "https://github.com/solovevserg/alenka",
   "keywords": [
     "names",
+    "prediction",
     "russian names",
     "translit",
     "transliteration",
     "restoring names",
     "full name",
     "cyrillic names",
-    "cyrillic letters",
-    "string processing"
+    "gender prediction"
   ],
   "author": "Sergei Solovev <sergey.soloviev@inbox.ru> (https://sergsol.com/)",
   "license": "ISC",
