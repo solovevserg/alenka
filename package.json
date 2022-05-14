@@ -1,7 +1,7 @@
 {
   "name": "alenka",
   "version": "1.0.0",
-  "description": "Restoring full Russian names from transliterated and short forms with statistically based probabilities",
+  "description": "Predicting Russian names from transliterated and short forms with statistical learning and Levenshtein distance",
   "main": "dist/index.js",
   "types": "dist/index.d.js",
   "scripts": {
