@@ -4,6 +4,7 @@ import { normalize } from "./utils/normalize";
 import { Name } from "./types/name";
 import _ from "lodash";
 import { NameDescription } from "./types/name-description";
+import { DeepReadonly } from "./types/utils/deep-readonly";
 
 export class NamesRegistry {
 

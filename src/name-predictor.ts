@@ -6,6 +6,7 @@ import { distance as levenshteinDistance } from 'fastest-levenshtein';
 import { defaulOptions } from './default-options';
 import { NamesRegistry } from './name-registry';
 import { Gender } from './types/gender';
+import { DeepReadonly } from './types/utils/deep-readonly';
 
 export class NamePredictor {
 
