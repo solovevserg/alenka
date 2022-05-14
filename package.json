@@ -1,6 +1,6 @@
 {
   "name": "alenka",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Restoring full Russian names from transliterated and short forms with statistically based probabilities",
   "main": "dist/index.js",
   "types": "dist/index.d.js",
@@ -8,6 +8,7 @@
     "start": "nodemon --watch . --watch ../shared --ignore ./dist --ext json,ts,js --exec yarn build",
     "build": "tsc",
     "test": "jest",
+    "docs": "yarn typedoc src/index.ts",
     "test:watch": "jest --watch"
   },
   "bin": "./dist/cli/alenka-cli.js",
