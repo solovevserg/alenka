@@ -1,6 +1,6 @@
 {
   "name": "alenka",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Predicting Russian names from transliterated and short forms with statistical learning and Levenshtein distance",
   "main": "dist/index.js",
   "types": "dist/index.d.js",
@@ -8,11 +8,10 @@
     "dist/"
   ],
   "scripts": {
-    "start": "nodemon --watch . --watch ../shared --ignore ./dist --ext json,ts,js --exec yarn build",
+    "prepare": "yarn build && yarn test",
+    "start": "nodemon --watch src --watch tsconfig.json --exec yarn build",
     "build": "tsc",
     "test": "jest",
-    "docs": "yarn typedoc src/index.ts",
-    "prepublish": "yarn build && yarn test",
     "test:watch": "jest --watch"
   },
   "bin": "./dist/cli/alenka-cli.js",
@@ -33,7 +32,8 @@
   "dependencies": {
     "cyrillic-to-translit-js": "^3.2.1",
     "fastest-levenshtein": "^1.0.12",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "ts-node": "^10.7.0"
   },
   "devDependencies": {
     "@types/jest": "^27.5.1",
@@ -41,8 +41,6 @@
     "jest": "^28.1.0",
     "nodemon": "^2.0.16",
     "ts-jest": "^28.0.2",
-    "ts-node": "^10.7.0",
-    "typedoc": "^0.22.15",
     "typescript": "^4.6.4"
   }
 }
