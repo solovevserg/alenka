@@ -17,15 +17,15 @@
   "bin": "./dist/cli/alenka-cli.js",
   "repository": "https://github.com/solovevserg/alenka",
   "keywords": [
-    "names",
-    "prediction",
-    "russian names",
+    "russian",
+    "cyrillic",
     "translit",
     "transliteration",
-    "restoring names",
-    "full name",
-    "cyrillic names",
-    "gender prediction"
+    "romanization",
+    "names",
+    "gender",
+    "prediction",
+    "restoring"
   ],
   "author": "Sergei Solovev <sergey.soloviev@inbox.ru> (https://sergsol.com/)",
   "license": "ISC",
