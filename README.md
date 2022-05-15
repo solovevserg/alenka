@@ -37,7 +37,7 @@ np.predictName('Саня', 'female') // 'Александра'
 np.predictName('Сирожа') // 'Сергей' due to Levenstein matching
 np.predictName('$one4ka') // 'София' due to transliteration rules
 np.predictName('asdasda') // undefined
-np.predictGender('Соня') // female
+np.predictGender('Соня') // 'female'
 np.predictAll('Саня') // [{name: 'Александр', ...}, ...]
 ```
 
