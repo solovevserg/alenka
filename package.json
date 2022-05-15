@@ -1,6 +1,6 @@
 {
   "name": "alenka",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Predicting Russian names from transliterated and short forms with statistical learning and Levenshtein distance",
   "main": "dist/index.js",
   "types": "dist/index.d.js",
@@ -25,7 +25,8 @@
     "names",
     "gender",
     "prediction",
-    "restoring"
+    "restoring",
+    "typescript"
   ],
   "author": "Sergei Solovev <sergey.soloviev@inbox.ru> (https://sergsol.com/)",
   "license": "ISC",
