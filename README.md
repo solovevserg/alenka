@@ -32,13 +32,13 @@ import { NamePredictor } from "alenka";
 
 const np = new NamePredictor();
 
-np.predictName('Саня', 'male') // 'Александр'
-np.predictName('Саня', 'female') // 'Александра'
 np.predictName('Саня') // 'Александр' as more frequent
-np.predictName('Сирожа') // 'Сергей'
-np.predictName('$one4ka') // 'София'
-np.predictGender('$one4ka') // female
+np.predictName('Саня', 'female') // 'Александра'
+np.predictName('Сирожа') // 'Сергей' due to Levenstein matching
+np.predictName('$one4ka') // 'София' due to transliteration rules
 np.predictName('asdasda') // undefined
+np.predictGender('Соня') // female
+np.predictAll('Саня') // [{name: 'Александр', ...}, ...]
 ```
 
 Using with custom configuration
@@ -63,19 +63,19 @@ np.predictName('Сирожа') // 'unedfined'
 
 ![Terminology diagram](./docs/diagram.svg)
 
-1. Names are full forms of Russian Names (e.g. `Александр` or `София`);
-2. Shorts are shotened forms of names (e.g. `Саша` or `Сонечка`);
-3. Transliterations are latin versions of names or shorts (e.g. `Alex` or `Sofia`);
-4. Variants are names, shorts and transliterations together;
-5. Tokens are any strings including variatns (e.g. `$0nechk@`, `abcdefg`).
+1. `Names` are full forms of Russian Names (e.g. `Александр` or `София`);
+2. `Shorts` are shotened forms of names (e.g. `Саша` or `Сонечка`);
+3. `Transliterations` are latin versions of names or shorts (e.g. `Alex` or `Sofia`);
+4. `Variants` are names, shorts and transliterations together;
+5. `Tokens` are any strings including variatns (e.g. `Саша`, `$0nechk@`, `abcdefg`).
 
-prediction is mapping a token to a name. It happens via mathcing token agains a dataset of shorts and transliterations with Levenshtein distance to find the closest one and return the relevant name. If nothing matched, undefined will be returned.
+`Prediction` is mapping a token to a name. It happens via mathcing token against a dataset of names, shorts and transliterations with Levenshtein distance to find the closest one and return the relevant name. If nothing matched, undefined will be returned.
 
 ## Contribution
 
 Feel free to fork and leave pull requests.
 
-To start development just run following familiar commands. 
+To start development just run following familiar commands.
 
 ```bash
 git clone https://github.com/solovevserg/alenka.git
@@ -99,7 +99,7 @@ Here a list of actual tasks to participate at. Thanks in advance for any help.
 
 ## About author
 
-I am sergei Solovev, fullstack TS developer, data analyst and teacher. Look at my works [here](https://sergsol.com/). For fast response find me on [telegram](https://t.me/sergsol)
+I am sergei Solovev, fullstack TS developer, data analyst and teacher. Look at my works [here](https://sergsol.com/). For fast response get me on [telegram](https://t.me/sergsol)
 
 ## Licesnse
 

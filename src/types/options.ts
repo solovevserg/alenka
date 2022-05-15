@@ -24,7 +24,7 @@ export interface Options {
     handlingCase: 'ignore';
 
     /**
-     * Inclusive minimum distance. Words clother or equal to the distance treats similar.
+     * Inclusive minimum distance. Words clother or exact at the distance treats similar.
      * @default 2
      */
     minAcceptibleDistance: number;
