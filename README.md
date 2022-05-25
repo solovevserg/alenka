@@ -99,7 +99,7 @@ Here a list of actual tasks to participate at. Thanks in advance for any help.
 
 ## About author
 
-I am sergei Solovev, fullstack TS developer, data analyst and teacher. Look at my works [here](https://sergsol.com/). For fast response get me on [telegram](https://t.me/sergsol)
+I am Sergei Solovev, fullstack TS developer, data analyst and teacher. Look at my works [here](https://sergsol.com/). For fast response get me on [telegram](https://t.me/sergsol)
 
 ## Licesnse
 
