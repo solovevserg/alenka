@@ -75,11 +75,9 @@ np.predictName('Сирожа') // 'unedfined'
 
 Feel free to fork and leave pull requests.
 
-To start development just run following familiar commands.
+To start development just clone the repo and run following familiar commands.
 
 ```bash
-git clone https://github.com/solovevserg/alenka.git
-cd alenka
 yarn install
 yarn test:watch
 ```
